@@ -10,3 +10,16 @@
     font-size: 1.5rem;
     cursor: pointer;
 }
+
+.submenu {
+    background-color: black;
+    height: 110px;
+    padding: 10px;
+    display: none;
+    position: absolute;
+    width: 100px;
+}
+
+.menu-principal {
+    position: relative;
+}
