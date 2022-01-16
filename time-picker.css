@@ -1,0 +1,12 @@
+.hora-opcoes {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: khaki;
+    list-style: none;
+    display: none;
+}
+
+li {
+    margin: 2px;
+}
