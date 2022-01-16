@@ -1,0 +1,21 @@
+.menu {
+    width: 800px;
+    height: 70px;
+    background-color: lightgray;
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    margin-left: -400px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.icone {
+    width: 70px;
+    height: 70px;
+    background-color: #CCC;
+    margin-right: 10px;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 20px;
+}
