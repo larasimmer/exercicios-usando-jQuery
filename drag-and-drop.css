@@ -1,0 +1,8 @@
+#objeto {
+    width: 150px;
+    height: 150px;
+    background-color: lightcoral;
+    position: absolute;
+    cursor: move;
+    border-radius: 20%;
+}
